@@ -1,0 +1,9 @@
+main: fr.aang.gcheat.Main
+name: GCheat
+version: 1.0
+api-version: 1.19
+author: [Aang]
+depend: [ Multiverse-Core ]
+commands:
+  ping:
+    description: Return ping of player
